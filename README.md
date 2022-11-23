@@ -1,6 +1,6 @@
 # GMFSS_union
 
-High Performance GMFSS with RIFE and GAN
+High Performance GMFSS with RIFE and GAN for Video Frame Interpolation
 
 ---
 
