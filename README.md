@@ -1,6 +1,6 @@
 # GMFSS_union
 
-High Performance GMFSS with RIFE and GAN for Video Frame Interpolation
+High Performance [GMFSS](https://github.com/YiWeiHuang-stack/GMFSS) with RIFE and GAN for Video Frame Interpolation
 
 ---
 
