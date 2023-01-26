@@ -18,4 +18,4 @@ python3 inference_video.py --img=demo/ --scale=1.0 --multi=2
 
 
 ## Acknowledgment
-This project is sponsored by [SVFI](https://steamcommunity.com/app/1692080) [Development Team](https://github.com/Justin62628/Squirrel-RIFE) 
+This project is supported by [SVFI](https://steamcommunity.com/app/1692080) [Development Team](https://github.com/Justin62628/Squirrel-RIFE) 
