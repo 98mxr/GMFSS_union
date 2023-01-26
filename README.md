@@ -16,3 +16,6 @@ python3 inference_video.py --img=demo/ --scale=1.0 --multi=2
 ## Train
 2022.11.27, the training code has been made public. This code is run on a single V100, so there is no DistributedDataParallel related code. Please refer to [RIFE train](https://github.com/megvii-research/ECCV2022-RIFE/blob/main/train.py). The required training set is ATD-12K, which can be obtained from the [official library](https://drive.google.com/file/d/1XBDuiEgdd6c0S4OXLF4QvgSn_XNPwc-g/view). We also used a private data set, which unfortunately cannot be made public for the time being.In the process of organizing the code in the future, I found an error in the numerical processing of GAN Loss. I provided a replacement file, but the overall situation still maintained my original processing.
 
+
+## Acknowledgment
+This project is sponsored by [SVFI](https://steamcommunity.com/app/1692080) [Development Team](https://github.com/Justin62628/Squirrel-RIFE) 
