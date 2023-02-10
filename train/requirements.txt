@@ -1,0 +1,11 @@
+cupy==11.5.0
+cupy_cuda11x==11.4.0
+matplotlib==3.6.2
+numpy==1.24.1
+opencv_python==4.7.0.68
+rawpy==0.17.3
+scipy==1.10.0
+skimage==0.0
+torch==1.13.1+cu117
+torchvision==0.14.1+cu117
+tqdm==4.64.1
