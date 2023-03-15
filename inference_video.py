@@ -9,6 +9,7 @@ import warnings
 import _thread
 import skvideo.io
 from queue import Queue, Empty
+from model.gmfss import Model
 
 warnings.filterwarnings("ignore")
 
