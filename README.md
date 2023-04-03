@@ -4,6 +4,10 @@ High Performance [GMFSS](https://github.com/YiWeiHuang-stack/GMFSS) with RIFE an
 
 ---
 
+**2023-04-03: We now provide [GMFSS_Fortuna](https://github.com/98mxr/GMFSS_Fortuna) as a factual basis for training in GMFSS. Please use this.**
+
+---
+
 * Cupy is required as a running environment, please follow the [link](https://docs.cupy.dev/en/stable/install.html) to install.
 * The pre-trained model can be obtained from the following link, rename the folder to train_log and put it in the root directory, we provide two pre-trained models [prototype_vanillagan](https://drive.google.com/file/d/1AsA7a4HNR4RjCeEmNUJWy5kY3dBC-mru/view?usp=sharing) and [prototype_wgan](https://drive.google.com/file/d/1GAp9DljP1RCQXz0uu_GNn751NBMEQOUB/view?usp=sharing).
 
