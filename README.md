@@ -4,7 +4,7 @@ High Performance [GMFSS](https://github.com/YiWeiHuang-stack/GMFSS) with RIFE an
 
 ---
 
-**2023-04-03: We now provide [GMFSS_Fortuna](https://github.com/98mxr/GMFSS_Fortuna) as a factual basis for training in GMFSS. Please use this.**
+**2023-04-03: We now provide [GMFSS_Fortuna](https://github.com/98mxr/GMFSS_Fortuna) as a factual basis for training in GMFSS. Please use it. This item will not be updated!**
 
 ---
 
