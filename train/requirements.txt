@@ -8,4 +8,4 @@ scipy==1.10.0
 skimage==0.0
 torch==1.13.1+cu117
 torchvision==0.14.1+cu117
-tqdm==4.64.1
+tqdm==4.66.3
