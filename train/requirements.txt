@@ -2,7 +2,7 @@ cupy==11.5.0
 cupy_cuda11x==11.4.0
 matplotlib==3.6.2
 numpy==1.24.1
-opencv_python==4.7.0.68
+opencv_python==4.8.1.78
 rawpy==0.17.3
 scipy==1.10.0
 skimage==0.0
